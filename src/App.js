@@ -236,8 +236,8 @@ class App extends Component {
           </div>
         </div>
       </div>
-      <div className="col-sm-8 col-sm-offset-0 col-md-3 offset-md-1">
-      <p className='speak-lady'>press a key, on the demo or your laptop, increase volume, switch banks, and lets dance!!!!</p>
+      <div className="col-sm-8 col-sm-offset-2 col-md-3 offset-md-1 p-4 ">
+      <p className='speak-lady p-2'>press a key, on this min piano or on your laptop to hear a sound, and swith bank to change the beat</p>
       <img src={pepe} alt="Little Nephew" width="250" height="230" />
       </div>
       </div>
