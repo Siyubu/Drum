@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Drum/static/css/main.bac7dc77.chunk.css",
+    "main.js": "/Drum/static/js/main.945dbffd.chunk.js",
+    "main.js.map": "/Drum/static/js/main.945dbffd.chunk.js.map",
+    "runtime-main.js": "/Drum/static/js/runtime-main.0ba6e378.js",
+    "runtime-main.js.map": "/Drum/static/js/runtime-main.0ba6e378.js.map",
+    "static/js/2.f8d90b30.chunk.js": "/Drum/static/js/2.f8d90b30.chunk.js",
+    "static/js/2.f8d90b30.chunk.js.map": "/Drum/static/js/2.f8d90b30.chunk.js.map",
+    "static/js/3.d6ac02e8.chunk.js": "/Drum/static/js/3.d6ac02e8.chunk.js",
+    "static/js/3.d6ac02e8.chunk.js.map": "/Drum/static/js/3.d6ac02e8.chunk.js.map",
+    "index.html": "/Drum/index.html",
+    "static/css/main.bac7dc77.chunk.css.map": "/Drum/static/css/main.bac7dc77.chunk.css.map",
+    "static/js/2.f8d90b30.chunk.js.LICENSE.txt": "/Drum/static/js/2.f8d90b30.chunk.js.LICENSE.txt",
+    "static/media/pepe.378c6ba1.png": "/Drum/static/media/pepe.378c6ba1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba6e378.js",
+    "static/js/2.f8d90b30.chunk.js",
+    "static/css/main.bac7dc77.chunk.css",
+    "static/js/main.945dbffd.chunk.js"
+  ]
+}
